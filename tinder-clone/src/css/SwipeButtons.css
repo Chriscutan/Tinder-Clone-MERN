@@ -1,0 +1,34 @@
+.swipeButtons{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.replay{
+    padding: 3vw !important;
+    color: #f5b7b8 !important;
+}
+
+.close{
+    padding: 3vw !important;
+    color: #ec5e67 !important;
+}
+
+.star{
+    padding: 3vw !important;
+    color: #62b4f9 !important;
+}
+
+.fav{
+    padding: 3vw !important;
+    color: #76e2b3 !important;
+}
+
+.flash{
+    padding: 3vw !important;
+    color: #915dd1 !important;
+}
